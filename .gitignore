@@ -1,0 +1,3 @@
+contracts/sui-*
+contracts/*.tgz
+contracts/move-analyzer
